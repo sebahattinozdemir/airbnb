@@ -28,11 +28,11 @@ function Footer() {
       </div>
       <div className="space-y-5 text-xs text-gray-800 " >
         <h5 className="font-bold" >SUPPORT</h5>
-        <p className="cursor-pointer hover: underline" >Help Center</p>
-        <p className="cursor-pointer hover: underline" >Trust & Safety</p>
-        <p className="cursor-pointer hover: underline" >Say Hi To Comminutiy</p>
-        <p className="cursor-pointer hover: underline" >Easter Eggs</p>
-        <p className="cursor-pointer hover: underline" >For the Win</p>
+        <p className="cursor-pointer hover:underline" >Help Center</p>
+        <p className="cursor-pointer hover:underline" >Trust & Safety</p>
+        <p className="cursor-pointer hover:underline" >Say Hi To Comminutiy</p>
+        <p className="cursor-pointer hover:underline" >Easter Eggs</p>
+        <p className="cursor-pointer hover:underline" >For the Win</p>
       </div>
     </div>
   );
